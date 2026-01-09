@@ -71,4 +71,4 @@ https://jyojitenguam.github.io/jyoji-portfolio/
 
 ## 👤 Autor
 
-Este projeto foi desenvolvido por **Jyoji Tenguam**, como parte do **Bootcamp Santander 2025 - DIO**.
+Este projeto foi desenvolvido por **Jyoji Tenguam**.
